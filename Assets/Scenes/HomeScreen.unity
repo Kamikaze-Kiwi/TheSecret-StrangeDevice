@@ -773,7 +773,7 @@ MonoBehaviour:
         m_MethodName: GoToScene
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 102900000, guid: 0710daf0626172a4784a8cac942bba8a, type: 3}
+          m_ObjectArgument: {fileID: 102900000, guid: cada95fb0abac324c83bf50b94703ba9, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
