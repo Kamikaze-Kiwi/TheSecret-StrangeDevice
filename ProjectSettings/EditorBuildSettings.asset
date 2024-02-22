@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RuleScreens/WhatsMyFavouriteBlank.unity
     guid: 0710daf0626172a4784a8cac942bba8a
+  - enabled: 1
+    path: Assets/Scenes/RuleScreens/BruteForce.unity
+    guid: c0f9313bc876f0c438cbea89f50df1ac
+  - enabled: 1
+    path: Assets/Scenes/RuleScreens/OnsAndOffs.unity
+    guid: 053679dd7aaffe445a2bccb2eeb5cf1b
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ed1e942ea8eead3478430180c047272d, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e4d88514ce7ffc34586f8c75c2df9680, type: 2}

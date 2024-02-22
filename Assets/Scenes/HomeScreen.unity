@@ -1489,7 +1489,7 @@ MonoBehaviour:
         m_MethodName: GoToScene
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 102900000, guid: 0710daf0626172a4784a8cac942bba8a, type: 3}
+          m_ObjectArgument: {fileID: 102900000, guid: c0f9313bc876f0c438cbea89f50df1ac, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -1622,7 +1622,7 @@ MonoBehaviour:
         m_MethodName: GoToScene
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 102900000, guid: 0710daf0626172a4784a8cac942bba8a, type: 3}
+          m_ObjectArgument: {fileID: 102900000, guid: 053679dd7aaffe445a2bccb2eeb5cf1b, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
